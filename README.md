@@ -18,3 +18,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  
 </p>
+
+<!-- <h3>👩‍💻 My Github Stats 👩‍💻</h3> -->
+
+![JunJangE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunJangE&hide=issues&show_icons=true)
