@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
- I hope to level up.⭐  <br/><br/>
+ I hope to level up.⭐  <br/>
 </p>
 
 ### ✨ Skills
