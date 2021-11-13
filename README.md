@@ -1,11 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 <p>
  I hope to level up.⭐  <br/>
 </p>
 
-### ✨ Skills
-#### Platforms & Languages
+## ✨ Skills
+### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -19,6 +19,8 @@
  
 </p>
 
-<!-- <h3>👩‍💻 My Github Stats 👩‍💻</h3> -->
+<!-- Github 통계 -->
+## :books: My Github Stats
 
-![JunJangE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunJangE&hide=issues&show_icons=true)
+<div align="left">
+	<img src="https://github-readme-stats.vercel.app/api?username=JunJangE&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
