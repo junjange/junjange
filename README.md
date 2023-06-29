@@ -23,12 +23,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  
 </p>
-
-<!-- Github 통계 -->
-## :books: My Github Stats
-
-<div align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=JunJangE&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
-	
 	
    
